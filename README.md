@@ -9,7 +9,7 @@ Web Development: HTML,CSS,JS.
 
 Programming Languages: C, Python, Java.
 
-## Buy me a coffee or conatct me
+## Buy me a coffee or contact me
 - (nisabmohd@gmail.com)
 
   
