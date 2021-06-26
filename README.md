@@ -5,7 +5,7 @@ You can. End of story
 - [@nisabmohd](https://github.com/nisabmohd)
  
 ## Skills
-Web Development: HTML,CSS,JS.
+Web Development: HTML, CSS, JS.
 
 Programming Languages: C, Python, Java.
 
