@@ -13,7 +13,7 @@ Programming Languages: C, Python, Java.
 - (nisabmohd@gmail.com)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nisabmohd&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nisabmohd)](https://git.io/streak-stats)
 
   
