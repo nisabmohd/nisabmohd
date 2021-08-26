@@ -16,4 +16,4 @@ Programming Languages: C, Python, Java.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nisabmohd&theme=dark)](https://git.io/streak-stats)
 
 
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+ ![image]({BadgeURLHere}) https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
