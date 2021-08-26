@@ -1,4 +1,5 @@
-# Mohd Nisab Alam
+<h2 align="center">Mohd Nisab Alam</h2>
+
 <h5 align="center">You can. End of story</h5>
 
 
@@ -17,7 +18,6 @@ Programming Languages: C, Python, Java.
 ## Buy me a coffee or contact me
 - (nisabmohd@gmail.com)
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
