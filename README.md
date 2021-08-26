@@ -1,4 +1,4 @@
-<h2 align="center">Mohd Nisab Alam</h2>
+<h1 align="center">Mohd Nisab Alam</h1>
 
 <h5 align="center">You can. End of story</h5>
 
