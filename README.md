@@ -17,7 +17,10 @@
 <a href="https://discord.gg/nisab01#0298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nisab01#0298" height="30" width="40" /></a>
 </p>
 
-<a align="center" href="nisabmohd@email.com">Click here to email me</a>
+
+<p align="center">
+<a href="nisabmohd@email.com">Click here to email me</a>
+
 
 
 
