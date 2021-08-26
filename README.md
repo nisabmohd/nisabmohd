@@ -22,23 +22,7 @@
 <a href="nisabmohd@email.com">Click here to email me</a>
  
  
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenisab" height="30" width="40" /></a>
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisabmohd&show_icons=true&locale=en" alt="nisabmohd" /></p>
-  
-  
-  
-  
-  
-  
-  
-
-
-
-
-
-
 
 
