@@ -17,7 +17,7 @@ Programming Languages: C, Python, Java.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-nisab-alam-725148197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" height="30" width="40" /></a>
 <a href="https://discord.gg/nisab01#0298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nisab01#0298" height="30" width="40" /></a>
 </p>
 
