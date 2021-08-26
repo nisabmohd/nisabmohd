@@ -1,5 +1,9 @@
 # Mohd Nisab Alam
-You can. End of story
+<h5 align="center">You can. End of story</h5>
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
 
 ## github
 - [@nisabmohd](https://github.com/nisabmohd)
