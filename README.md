@@ -12,7 +12,7 @@
 
 
 
-<h4 align="center>Wesite: </h4><button>nisabmohd.github.io/portfolio-website/home.html</button>
+<a href="nisabmohd.github.io/portfolio-website/home.html" align="center>Website</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
