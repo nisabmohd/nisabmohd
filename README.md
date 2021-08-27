@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<a href="https://nisabmohd.github.io/portfolio-website/home.html">Website</a>
+<a href="https://nisabmohd.github.io/portfolio-website/home.html" colour="red">Website</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
