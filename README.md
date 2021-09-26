@@ -14,9 +14,6 @@
 <p align="center">
 <a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank">Website</a>
 
- 
- [![Website](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" height="30" width="40" /></a>
