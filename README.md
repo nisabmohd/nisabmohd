@@ -13,7 +13,7 @@
 
 <p align="center">
 <a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank">Website</a>
- [![Website](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)]
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
