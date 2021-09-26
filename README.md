@@ -12,7 +12,8 @@
 
 
 <p align="center">
-<button><a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank">Website</a></button>
+<a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank">Website</a>
+ [![Website](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
