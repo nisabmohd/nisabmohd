@@ -12,10 +12,8 @@
 
 
 <p align="center">
-<a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank">Website</a>
+<h1><a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank">Website</a></h1>
  
- 
- [<img src='' alt='website' height='40'>](https://nisabmohd.github.io/portfolio-website/home.html)  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
