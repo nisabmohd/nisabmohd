@@ -7,7 +7,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
  
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages I Speak</h3>
 <p align="center">
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
