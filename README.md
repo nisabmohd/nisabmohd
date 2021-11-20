@@ -1,12 +1,7 @@
 <h1 align="center">Mohd Nisab Alam</h1>
 
-
-<h5 align="center">You can. End of story</h5>
-
-
 <h3 align="center">A passionate web developer from India</h3>
 
- 
 <h3 align="center">Languages I Speak : </h3>
 <p align="center">
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -20,10 +15,6 @@
 </p>
 <h3 align="center"></h3>
 
-
-
-
-
 <h2 align="center"><a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank"> Portfolio Website  </a></h2>
  
 
@@ -33,11 +24,8 @@
 <a href="https://discord.gg/TtXgpg58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nisab01" height="30" width="40" /></a>
 </p>
 
-
 <p align="center">
  <a href = "mailto: nisabmohd@gmail.com">Click here to email me</a>
- 
- 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisabmohd&show_icons=true&locale=en" alt="nisabmohd" /></p>
 
