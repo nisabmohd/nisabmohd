@@ -27,6 +27,6 @@
 <p align="center">or</p>
    
 <p align="center">
- <a href = "mailto: nisabmohd@gmail.com">email me</a>
+ <a href = "mailto: nisabmohd@gmail.com">Click here to email me</a>
 
 
