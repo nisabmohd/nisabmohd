@@ -24,7 +24,7 @@
 <a href="https://discord.gg/TtXgpg58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nisab01" height="30" width="30" /></a>
 </p>
    
-<p align="center">or</p>
+<p align="center">( or )</p>
    
 <p align="center">
  <a href = "mailto: nisabmohd@gmail.com">Click here to email me</a>
