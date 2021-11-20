@@ -27,5 +27,4 @@
 <p align="center">
  <a href = "mailto: nisabmohd@gmail.com">Click here to email me</a>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nisabmohd&show_icons=true&locale=en" alt="nisabmohd" /></p>
 
