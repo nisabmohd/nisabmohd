@@ -15,7 +15,7 @@
 </p>
 <h3 align="center"></h3>
 
-<h2 align="center"><a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank"> Portfolio </a></h2>
+<h2 align="center"><a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank"> ---> Portfolio <--- </a></h2>
  
 
 <h3 align="center">Connect with me:</h3>
