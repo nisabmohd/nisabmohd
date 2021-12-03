@@ -21,8 +21,8 @@
 
 <!-- <h3 align="center">Connect with me:</h3> -->
 <p align="center">
-<a href="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" height="30" width="30" /></a>
-<a href="https://discord.gg/TtXgpg58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nisab01" height="40" width="35" /></a>
+<a href="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" target="_blank"><img align="center" src="https://i.ibb.co/0X7dRtY/linkedin.png" alt="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" height="30" width="30" /></a>
+<a href="https://discord.gg/TtXgpg58" target="blank"><img align="center" src="https://i.ibb.co/RTgmTH8/discord.png" alt="nisab01" height="30" width="30" /></a>
 </p>
 
    
