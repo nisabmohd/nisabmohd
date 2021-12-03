@@ -23,6 +23,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" target="_blank"><img align="center" src="https://i.ibb.co/0X7dRtY/linkedin.png" alt="https://www.linkedin.com/in/mohd-nisab-alam-725148197/" height="30" width="30" /></a>
   <a href="https://discord.gg/TtXgpg58" target="blank"><img align="center" src="https://i.ibb.co/RTgmTH8/discord.png" alt="nisab01" height="30" width="30" /></a>
-  <a href = "mailto: nisabmohd@gmail.com"><img align="center" src="https://i.ibb.co/N2HG0Ft/gmail.png" alt="nisab01" height="30" width="30" /></a>
+  <a href = "mailto: nisabmohd@gmail.com"><img align="center" src="https://i.ibb.co/jDRJbDz/arroba.png" alt="nisab01" height="30" width="30" /></a>
 </p>
 
