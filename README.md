@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate web developer from India</h3>
 
-<h3 align="center">Languages and Tools : </h3>
+<!-- <h3 align="center">Languages and Tools : </h3>
 <p align="center">
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="44" height="44"/></a>
@@ -14,7 +14,7 @@
    <a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
 <h3 align="center"></h3>
-
+ -->
 <h2 align="center"><a href="https://nisabmohd.github.io/portfolio-website/home.html" target="_blank"> ---> Portfolio <--- </a></h2>
  
 
