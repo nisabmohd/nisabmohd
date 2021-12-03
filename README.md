@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Mohd Nisab Alam</h1>
  -->
-<h3 align="center">Web Dev from India</h3>
+<h3 align="center">Web Dev</h3>
 
 <!-- <h3 align="center">Languages and Tools : </h3>
 <p align="center">
