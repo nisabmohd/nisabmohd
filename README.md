@@ -7,7 +7,7 @@
 Hi, I'm Nisab, a 3rd year undergraduate.
   
 <p align="center"> 
-A Full-Stack Web Developer and a Competitive Programming Enthusiast  ,
+A Full-Stack Web Developer,  and a Competitive Programming Enthusiast ,
 who is obsessed with the idea of improving himself and wants a platform to grow and excel  .
   
                   
@@ -25,7 +25,7 @@ who is obsessed with the idea of improving himself and wants a platform to grow 
 <sub>Hi, I'm Nisab, a 3rd year undergraduate.
 
  <p align="center" class="para"> 
-<sub>A Full-Stack Web Developer and a Competitive Programming Enthusiast  ,
+<sub>A Full-Stack Web Developer, a begginer android developer  and a Competitive Programming Enthusiast  ,
 who is obsessed with the idea of improving himself and wants a platform to grow and excel  .
 
 
