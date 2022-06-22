@@ -22,10 +22,10 @@ who is obsessed with the idea of improving himself and wants a platform to grow 
   <br/>
     <br/>
 <p align="center">
-<sub>Hi, I'm Nisab, a computer science undergraduate.
+<sub>Hi, I'm Nisab, a Computer Science undergraduate.
 
  <p align="center" class="para"> 
-<sub>A Full-Stack Web Developer, a begginer android developer  and a Competitive Programming Enthusiast  ,
+<sub>A Full-Stack Web Developer, a begginer Android developer  and a Competitive Programming Enthusiast  ,
 who is obsessed with the idea of improving himself and wants a platform to grow and excel  .
 
 
