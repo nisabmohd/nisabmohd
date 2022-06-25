@@ -18,17 +18,14 @@ who is obsessed with the idea of improving himself and wants a platform to grow 
 <!-- 
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!  -->
 <h2 align="center">
-  <bold>Hello, fellow</bold> <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>! 
+  <bold>Hello, fellow</bold> <𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫𝐬/>! 
   <br/>
-    <br/>
-<p align="center">
+  
 <sub>Hi, I'm Nisab, a Computer Science undergraduate.
-
- <p align="center" class="para"> 
+  
 <sub>A Full-Stack Web Developer, a begginer Android developer  and a Competitive Programming Enthusiast  ,
 who is obsessed with the idea of improving himself and wants a platform to grow and excel  .
-
-
+  
 &nbsp;<p align="center">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-nisab-alam-725148197/)
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nisabmohd)
