@@ -23,7 +23,7 @@ who is obsessed with the idea of improving himself and wants a platform to grow 
   
 <sub>Hi, I'm Nisab, a Computer Science undergraduate.
   
-<sub>A Full-Stack Web Developer who belives in opensource contribution and a Competitive Programming Enthusiast  ,
+<sub>A Full-Stack Web Developer who belives in opensource contribution and a part time coder at leetcode ,
 who is obsessed with the idea of improving himself and wants a platform to grow and excel  .
   
 &nbsp;<p align="center">
